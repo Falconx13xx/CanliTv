@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\CanliTv.exe.config
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\CanliTv.exe
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\CanliTv.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\CanliTv.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\CanliTv.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\CanliTv.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\CanliTv.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\CanliTv.exe
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\CanliTv.pdb

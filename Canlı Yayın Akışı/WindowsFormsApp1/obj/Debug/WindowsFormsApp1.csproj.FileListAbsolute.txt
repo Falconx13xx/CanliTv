@@ -1,0 +1,90 @@
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ataka\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Yeni klasör (4)\Deneme uygulamalar\Canlı Yayın Akışı\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
